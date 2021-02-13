@@ -1,0 +1,35 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.variables": {
+    "lang": "es"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.welcome.enabled": false,
+  "workbench.editor.highlightModifiedTabs": true,
+  "explorer.sortOrder": "type",
+  "files.trimFinalNewlines": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.settings.editor": "json",
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.wordWrap": "on",
+  "prettier.printWidth": 120,
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  },
+  "window.zoomLevel": 0,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "workbench.colorCustomizations": {
+    "[Palenight Theme]": {
+      "editorCursor.background": "#ffff00",
+      "editorCursor.foreground": "#ffff00"
+    }
+  },
+  "editor.linkedEditing": true
+}
