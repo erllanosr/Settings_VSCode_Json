@@ -1,4 +1,5 @@
 {
+  "workbench.settings.editor": "json",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "emmet.variables": {
     "lang": "es"
@@ -10,8 +11,6 @@
   "files.trimFinalNewlines": true,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "workbench.settings.editor": "json",
-  "workbench.colorTheme": "Gruvbox Dark Hard",
   "editor.fontSize": 15,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
