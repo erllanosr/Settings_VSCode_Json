@@ -4,7 +4,7 @@
   "emmet.variables": {
     "lang": "es"
   },
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-icons",
   "workbench.welcome.enabled": false,
   "workbench.editor.highlightModifiedTabs": true,
   "explorer.sortOrder": "type",
